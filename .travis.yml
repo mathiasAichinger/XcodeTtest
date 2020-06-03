@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: XcodeTtest.xcodeproj # path to your xcodeproj folder
+xcode_scheme: XcodeTtest
+xcode_destination: platform=iOS Simulator,OS=13.5,name=iPad Pro (9.7-inch)
